@@ -13,7 +13,7 @@ return array(
 	'server' => 'wordup-mysqldbserver.mysql.database.azure.com',
 
 	// The name of the database to select.
-	'database' => 'craft',
+	'database' => 'wordpress',
 
 	// The database username to connect with.
 	'user' => 'mysqldbuser@wordup-mysqldbserver',
@@ -22,6 +22,6 @@ return array(
 	'password' => 'B6bLQxHRxkSTPQwTNYKe',
 
 	// The prefix to use when naming tables. This can be no more than 5 characters.
-	'tablePrefix' => 'wordpress',
+	'tablePrefix' => 'craft',
 
 );
