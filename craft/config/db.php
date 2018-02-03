@@ -13,7 +13,7 @@ return array(
 	'server' => 'wordup-mysqldbserver.mysql.database.azure.com',
 
 	// The name of the database to select.
-	'database' => 'wordpress',
+	'database' => 'craft',
 
 	// The database username to connect with.
 	'user' => 'mysqldbuser@wordup-mysqldbserver',
